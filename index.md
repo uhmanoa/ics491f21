@@ -77,7 +77,7 @@ No. Although, it might be fun to have the same team for both.
 
 **Do all my team mates have to be in the class?**
 
-No. You have to work in a team (because that develops valuable software engineering skills), but your team mates don't have to be in the class. That said, it might be fun to form your team from folks in the class. 
+No. You have to work in a team (because that develops valuable software engineering skills), but your team mates don't have to be in the class. That said, it might be fun to form your team from folks in the class.
 
 **What if my team breaks up at the end of the HACC?**
 
@@ -85,7 +85,7 @@ If you are working with a team in which you are the only ICS 491 member, and the
 
 **I want to be in a team that's larger than five people. Is that OK?**
 
-No, the maximum team size is five.
+No, the maximum team size is five. The reason is that in a large team, coordination costs get high and there's a risk that you can't contribute significantly enough to pass this course. 
 
 **I have another question?**
 
