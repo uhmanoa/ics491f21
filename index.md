@@ -12,7 +12,7 @@ To be qualified to take this course, you should have a passion for working with 
 
 ## Prior results
 
-ICS undergraduates have an impressive winning streak at the HACC:
+The Meteor Hackathon is new, so we don't have a track record, but ICS undergraduates have an impressive winning streak at the HACC:
 
   * [2020 HACC](https://www.ics.hawaii.edu/2020/11/ics-students-sweep-hawaii-annual-code-challenge-again/): First Place ($4000), Second Place ($2000), and Third Place ($1000).
 
