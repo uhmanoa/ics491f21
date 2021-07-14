@@ -1,6 +1,6 @@
 ## Overview
 
-This ICS 491 is a special topics course that will give you experience participating in two hackathons: the five day [2021 Meteor Hackathon](https://impact.meteor.com/hackathon) as well as the month-long [2021 Hawaii Annual Code Challenge (HACC)](http://hacc.hawaii.gov/). This class will be held in a completely online manner. Both Hackathons will also be held in a completely online format this year.
+This ICS 491 is a special topics course that will give you the opportunity to improve your software engineering skills by participating in two hackathons: the five day [2021 Meteor Hackathon](https://impact.meteor.com/hackathon) as well as the month-long [2021 Hawaii Annual Code Challenge (HACC)](http://hacc.hawaii.gov/). This class will be held in a completely online manner. Both Hackathons will also be held in a completely online format this year.
 
 The 2021 Meteor Hackathon will start on October 15 and finish on October 20.
 
@@ -22,7 +22,7 @@ ICS undergraduates have an impressive winning streak at the HACC:
 
    * [2017 HACC](http://www.ics.hawaii.edu/2017/09/ics-teams-win-big-at-hawaii-annual-code-challenge/): First Place ($5,000), Second Place ($3,000), and Top College Team.
 
-There is no reason for us to not do just as well or better this year!
+So, in addition to improving your software engineering skills, you might win some money! I see no reason for us to not do just as well or better this year.
 
 ## Course structure
 
