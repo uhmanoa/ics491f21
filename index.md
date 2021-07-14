@@ -69,7 +69,7 @@ There are no "lectures" in this class. You are expected to be able to learn new 
 
 **I'm shy. Do I have to be in a team?**
 
-Yes.  You have to be in at least a team of two. You'll thank me for this later. 
+Yes.  You have to be in at least a team of two. You'll thank me for this later.
 
 **What if my team breaks up at the end of the HACC?**
 
