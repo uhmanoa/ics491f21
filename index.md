@@ -40,7 +40,7 @@ The course will work like this:
 
 4. **(Oct 22, 11:00pm) Meteor Hackathon Portfolio Essay Due.** 20% of your grade will be based upon your Meteor Hackathon application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project (if you were working in a team).
 
-4. **(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You can be in a team of up to five students, which can be the same or different team members as those you chose for the Meteor Hackathon.
+4. **(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You can be in a team of up to five students.
 
 4. **(Nov 23, 11:00pm) HACC Portfolio Essay Due.** 40% of your grade will be based upon your HACC application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project (if you were working in a team).
 
@@ -70,6 +70,14 @@ There are no "lectures" in this class. You are expected to be able to learn new 
 **I'm shy. Do I have to be in a team?**
 
 Yes.  You have to be in at least a team of two. You'll thank me for this later.
+
+**Do I have to be in the same team for both hackathons?**
+
+No. Although, it might be fun to have the same team for both.
+
+**Do all my team mates have to be in the class?**
+
+No. You have to work in a team (because that develops valuable software engineering skills), but your team mates don't have to be in the class. That said, it might be fun to form your team from folks in the class. 
 
 **What if my team breaks up at the end of the HACC?**
 
