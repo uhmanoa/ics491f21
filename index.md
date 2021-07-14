@@ -28,7 +28,7 @@ So, in addition to improving your software engineering skills, you might win som
 
 The course will work like this:
 
-1. **(prior to Aug 22) Register for ICS 491 for Fall 2021.
+1. **(prior to Aug 22) Register for ICS 491 for Fall 2021.**
 
 2. **(prior to Aug 22) Join the ICS 491F21 Discord Server.** I will send registered students a Discord invite.
 
@@ -43,6 +43,13 @@ The course will work like this:
 6. **(Nov 21 - Dec 10) Application improvement.** Regardless of whether you win or not, from November 21 to the end of the semester, you will continue to work on your application to make it even better.
 
 7. **(Dec 15) Final grade.** The final 10% of your grade for the course will be based upon your HACC application as it stands at the end of the semester. (You don't have to win the HACC to get an A in the course.)
+
+## Grading
+
+* A: 90% or better.
+* B: 80% - 89%
+* C: 70% - 79%
+* D: 60% - 69%
 
 ## Frequently asked questions
 
