@@ -69,7 +69,7 @@ There are no "lectures" in this class. You are expected to be able to learn new 
 
 **I'm shy. Do I have to be in a team?**
 
-Yes.  You have to be in a team of at least two people. You'll thank me for this later. In the unlikely event that a student cannot find a team to join, I reserve the right to augment your team with additional team members in order to ensure that everyone is part of a team.
+Yes.  You have to be in a team of at least two people. You'll thank me for this later. In the unlikely event that a student cannot find a team to join, I reserve the right to augment any team with additional team members in order to ensure that everyone is part of a team.
 
 **I want to be in a team that's larger than six people. Is that OK?**
 
