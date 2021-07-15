@@ -36,11 +36,11 @@ The course will work like this:
 
 4. **(Oct 18, 11:00pm) Warm Up Portfolio Essay Due.** 30% of your grade will be based upon your warm up application. You will submit your warm up application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project (if you were working in a team).
 
-4. **(Oct 15 - Oct 20)  Meteor Hackathon.** Participate in the Meteor Hackathon. You can be in a team of up to five students.
+4. **(Oct 15 - Oct 20)  Meteor Hackathon.** Participate in the Meteor Hackathon. You must a member of a team of up to six people.
 
 4. **(Oct 22, 11:00pm) Meteor Hackathon Portfolio Essay Due.** 20% of your grade will be based upon your Meteor Hackathon application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project (if you were working in a team).
 
-4. **(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You can be in a team of up to five students.
+4. **(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You must a member of a team of up to six people.
 
 4. **(Nov 23, 11:00pm) HACC Portfolio Essay Due.** 40% of your grade will be based upon your HACC application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project (if you were working in a team).
 
@@ -69,23 +69,23 @@ There are no "lectures" in this class. You are expected to be able to learn new 
 
 **I'm shy. Do I have to be in a team?**
 
-Yes.  You have to be in at least a team of two. You'll thank me for this later.
+Yes.  You have to be in a team of at least two people. You'll thank me for this later.
+
+**I want to be in a team that's larger than six people. Is that OK?**
+
+No, the maximum team size is six. The reason is that in a larger team, coordination costs start to get very high and there's a significant risk that you won't contribute enough to pass this course.
 
 **Do I have to be in the same team for both hackathons?**
 
 No. Although, it might be fun to have the same team for both.
 
-**Do all my team mates have to be in the class?**
+**Do all of my team members have to be taking the class?**
 
-No. You have to work in a team (because that develops valuable software engineering skills), but your team mates don't have to be in the class. That said, it might be fun to form your team from folks in the class.
+No. You have to work in a team (because that develops valuable software engineering skills), but your team members don't have to be taking the class. That said, it might be fun to form your team from folks in the class, or at least some mixture.
 
 **What if my team breaks up at the end of the HACC?**
 
 If you are working with a team in which you are the only ICS 491 member, and the team breaks up at the end of HACC, then you can continue to work on the project by yourself for the remainder of the semester.
-
-**I want to be in a team that's larger than five people. Is that OK?**
-
-No, the maximum team size is five. The reason is that in a large team, coordination costs get high and there's a risk that you can't contribute significantly enough to pass this course. 
 
 **I have another question?**
 
