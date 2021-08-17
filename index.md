@@ -32,11 +32,11 @@ The course will work like this:
 
 **(Oct 14, 11:00pm) COVID Tracking App Essay Due.** 30% of your grade will be based upon the COVID tracking application. You will submit your application through an entry in your professional portfolio that describes the application you developed, provides links to the source code (and deployed application), what you learned from the experience, and what you personally contributed to the project.
 
-**(Oct 15 - Oct 20)  Meteor Hackathon.** Participate in the Meteor Hackathon. You must work in a team of 2-6 people.
+**(Oct 15 - Oct 20)  Meteor Hackathon.** Participate in the Meteor Hackathon. You must work in a team of 2-5 people.
 
 **(Oct 22, 11:00pm) Meteor Hackathon Portfolio Essay Due.** 20% of your grade will be based upon your Meteor Hackathon application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project.
 
-**(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You must work in a team of 2-6 people.
+**(Oct 23 - Nov 20) HACC.** Participate in the HACC.  You must work in a team of 2-5 people.
 
 **(Nov 23, 11:00pm) HACC Portfolio Essay Due.** 40% of your grade will be based upon your HACC application and what you contributed to it. You will submit your application through an essay in your professional portfolio that describes the application you developed, provides links to the source code (and/or deployed application), what you learned from the experience, and what you personally contributed to the project.
 
@@ -67,9 +67,9 @@ There are no "lectures" in this class. You are expected to be able to learn new 
 
 Yes.  You have to be in a team of at least two people. You'll thank me for this later. In the unlikely event that a student cannot find a team to join, I reserve the right to augment any team with additional team members in order to ensure that everyone is part of a team.
 
-**I want to be in a team that's larger than six people. Is that OK?**
+**I want to be in a team that's larger than 5 people. Is that OK?**
 
-No, the maximum team size is six. The reason is that in a larger team, coordination costs start to get very high and there's a significant risk that you won't contribute enough to pass this course.
+No, the maximum team size is 5. The reason is that in a larger team, coordination costs start to get very high and there's a significant risk that you won't contribute enough to pass this course.
 
 **Do I have to be in the same team for both hackathons?**
 
